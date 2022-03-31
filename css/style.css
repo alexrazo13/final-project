@@ -4,18 +4,15 @@ body{
     font-family: 'Red Hat Mono', monospace;
 }
 
+.aboutme {
+    align-items: center; 
+}
+
 .nav {
     background-color: lavender;
+    translucent;
 }
 
 .nav-link {
     color: hotpink
-}
-
-.fa-linkedin {
-    color: hotpink;
-}
-
-.fa-github-square {
-    color: hotpink;
 }
