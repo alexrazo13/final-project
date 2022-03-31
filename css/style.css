@@ -10,9 +10,9 @@ body{
 
 .nav {
     background-color: lavender;
-    translucent;
+    
 }
 
 .nav-link {
-    color: hotpink
+    color: hotpink;
 }
